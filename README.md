@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JamesAshwood
+- 👀 I’m interested in competitive programming
+- 🌱 I’m currently practicing for the LeetCode bi-weekly competition.
+- 💞️ I’m looking to collaborate on competitve programming competitions
+- 📫 You can reach me via email (jamesashwood.theclubcpt@gmail.com) or twitter (https://twitter.com/JamesAshwood07)
