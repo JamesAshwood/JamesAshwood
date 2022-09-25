@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JamesAshwood
+- 👋 Hi, I’m @JamesAshwood, a member of @TheClubCPT
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently practicing for the LeetCode bi-weekly competition.
 - 💞️ I’m looking to collaborate on competitve programming competitions
